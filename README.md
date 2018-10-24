@@ -6,8 +6,8 @@
 
 ## 平台提供教學範例
 
-- [C#](https://github.com/ptxmotc/Sample-code/tree/master/ASP.NET)
-- [Java](https://github.com/ptxmotc/Sample-code/tree/master/Java)
+- [C#範例程式碼](https://github.com/ptxmotc/Sample-code/tree/master/ASP.NET)
+- [Java範例程式碼](https://github.com/ptxmotc/Sample-code/tree/master/Java)
 
 ------
  [XML Schema資料驗證工具](https://ptx.transportdata.tw/PTX/XSDValidator/Validator)
