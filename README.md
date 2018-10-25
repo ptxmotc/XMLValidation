@@ -6,7 +6,7 @@
 
 ## 平台提供教學範例
 
-- [C#範例程式碼](https://github.com/ptxmotc/Sample-code/tree/master/ASP.NET)
+- [ASP.Net範例程式碼](https://github.com/ptxmotc/Sample-code/tree/master/ASP.NET)
 - [Java範例程式碼](https://github.com/ptxmotc/Sample-code/tree/master/Java)
 
 ------
