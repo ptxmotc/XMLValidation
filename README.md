@@ -9,8 +9,14 @@
 - [ASP.NET範例程式碼](https://github.com/ptxmotc/XMLValidation/tree/master/ASP.NET)
 - [Java範例程式碼](https://github.com/ptxmotc/XMLValidation/tree/master/Java)
 
-------
- [PTX XML Schema資料驗證工具](https://ptx.transportdata.tw/PTX/XSDValidator/Validator)
+
+---
+
+相關網站：
+- [公共運輸整合資訊流通服務平臺](https://ptx.transportdata.tw/PTX/)
+- [PTX XML Schema資料驗證工具](https://ptx.transportdata.tw/PTX/XSDValidator/Validator)
+- [公共運輸旅運資料標準說明](https://ptx.transportdata.tw/PTX/Data/Standard)
+- [公共運輸旅運資料標準下載](https://ptx.transportdata.tw/PTX/Data/Download)
 
 
 
