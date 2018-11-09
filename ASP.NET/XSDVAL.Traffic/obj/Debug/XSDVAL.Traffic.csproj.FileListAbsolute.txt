@@ -1,0 +1,12 @@
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\XSDVAL.Traffic.exe.config
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\XSDVAL.Traffic.exe
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\XSDVAL.Traffic.pdb
+D:\TEST\XSDVAL\XSDVAL.Traffic\obj\Debug\XSDVAL.Traffic.exe
+D:\TEST\XSDVAL\XSDVAL.Traffic\obj\Debug\XSDVAL.Traffic.pdb
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\Json.dll
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\Newtonsoft.Json.dll
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\Json.pdb
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\Newtonsoft.Json.xml
+D:\TEST\XSDVAL\XSDVAL.Traffic\obj\Debug\XSDVAL.Traffic.csprojResolveAssemblyReference.cache
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\Utility.exe
+D:\TEST\XSDVAL\XSDVAL.Traffic\bin\Debug\Utility.pdb
