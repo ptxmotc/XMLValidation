@@ -1,0 +1,12 @@
+D:\TEST\XSDVAL\Utility\bin\Debug\Utility.exe.config
+D:\TEST\XSDVAL\Utility\bin\Debug\Utility.exe
+D:\TEST\XSDVAL\Utility\bin\Debug\Utility.pdb
+D:\TEST\XSDVAL\Utility\obj\Debug\Utility.exe
+D:\TEST\XSDVAL\Utility\obj\Debug\Utility.pdb
+C:\Users\1205004\Desktop\XSDVAL\Utility\bin\Debug\Utility.exe.config
+C:\Users\1205004\Desktop\XSDVAL\Utility\bin\Debug\Utility.exe
+C:\Users\1205004\Desktop\XSDVAL\Utility\bin\Debug\Utility.pdb
+C:\Users\1205004\Desktop\XSDVAL\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\1205004\Desktop\XSDVAL\Utility\obj\Debug\Utility.exe
+C:\Users\1205004\Desktop\XSDVAL\Utility\obj\Debug\Utility.pdb
+C:\Users\1205004\Desktop\XSDVAL\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
