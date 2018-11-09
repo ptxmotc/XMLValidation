@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ParkingAvailabilityList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateTime>2018-11-08T19:37:29.0869218+08:00</UpdateTime>
+  <UpdateInterval>86400</UpdateInterval>
+  <AuthorityCode xsi:type="xsd:string">TPE</AuthorityCode>
+  <ParkingAvailabilities>
+    <ParkingAvailability>
+      <CarParkID>056</CarParkID>
+      <CarParkName>
+        <Zh_tw>大安森林公園地下停車場</Zh_tw>
+      </CarParkName>
+      <Availabilities>
+        <Availability>
+          <SpaceType>1</SpaceType>
+          <NumberOfSpaces>9</NumberOfSpaces>
+          <AvailableSpaces>37</AvailableSpaces>
+        </Availability>
+      </Availabilities>
+      <ServiceStatus>1</ServiceStatus>
+      <FullStatus>0</FullStatus>
+      <ChargeStatus>1</ChargeStatus>
+      <Remark />
+      <DataCollectTime>0001-01-01T00:00:00</DataCollectTime>
+    </ParkingAvailability>
+  </ParkingAvailabilities>
+</ParkingAvailabilityList>

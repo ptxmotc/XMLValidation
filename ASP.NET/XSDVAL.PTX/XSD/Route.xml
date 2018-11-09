@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<BusRouteList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://ptx.transportdata.tw/standard/schema/">
+  <UpdateTime>2018-11-08T19:31:58.3296979+08:00</UpdateTime>
+  <UpdateInterval>86400</UpdateInterval>
+  <AuthorityCode>TPE</AuthorityCode>
+  <Routes>
+    <Route>
+      <RouteID>17686</RouteID>
+      <RouteName>
+        <Zh_tw>216</Zh_tw>
+        <En>216</En>
+      </RouteName>
+      <HasSubRoutes>true</HasSubRoutes>
+      <Operators>
+        <Operator>
+          <OperatorID>1100</OperatorID>
+          <OperatorCode>DananBus</OperatorCode>
+        </Operator>
+      </Operators>
+      <RouteType>11</RouteType>
+      <ServiceType>
+        <IsFreeBus>false</IsFreeBus>
+        <IsTaiwanTripBus>false</IsTaiwanTripBus>
+        <IsTourBus>true</IsTourBus>
+        <IsTouristBus>false</IsTouristBus>
+        <IsBRTBus>false</IsBRTBus>
+        <IsMedicalBus>false</IsMedicalBus>
+        <IsNightBus>true</IsNightBus>
+        <IsTrunkBus>true</IsTrunkBus>
+        <IsMetroShuttleBus>false</IsMetroShuttleBus>
+        <IsTHSRShuttleBus>false</IsTHSRShuttleBus>
+        <IsTRAShuttleBus>false</IsTRAShuttleBus>
+        <IsAirportShuttleBus>false</IsAirportShuttleBus>
+        <IsActivityShuttleBus>true</IsActivityShuttleBus>
+      </ServiceType>
+      <TicketPriceDescription>
+        <Zh_tw>一段票</Zh_tw>
+        <En>1 segment</En>
+      </TicketPriceDescription>
+      <DepartureStopName>
+        <Zh_tw>新北投</Zh_tw>
+        <En>Xinbeitou</En>
+      </DepartureStopName>
+      <DestinationStopName>
+        <Zh_tw>捷運劍潭站</Zh_tw>
+        <En>MRT Jiantan Sta.</En>
+      </DestinationStopName>
+      <StartStop>
+        <StopID>186328</StopID>
+        <StopName>
+          <Zh_tw>新北投</Zh_tw>
+          <En>Xinbeitou</En>
+        </StopName>
+      </StartStop>
+      <EndStop>
+        <StopID>186288</StopID>
+        <StopName>
+          <Zh_tw>捷運劍潭站</Zh_tw>
+          <En>MRT Jiantan Sta.</En>
+        </StopName>
+      </EndStop>
+      <IsCircular>true</IsCircular>
+    </Route>
+  </Routes>
+</BusRouteList>
